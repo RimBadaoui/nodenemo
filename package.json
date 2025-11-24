@@ -2,9 +2,9 @@
   "name": "helloapp",
   "version": "1.0.0",
   "description": "node app ",
-  "main": "hello.heroku.js",
+  "main": "hello_heroku.js",
   "scripts": {
-  "start": "node hello.heroku.js"
+  "start": "node hello_heroku.js"
 },
   "repository": {
   "type": "git",
@@ -18,3 +18,4 @@
   "homepage": ""
 
 }
+
